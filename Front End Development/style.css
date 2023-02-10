@@ -1,0 +1,62 @@
+#blank{
+    height: 380px;
+    background-color: white;
+
+
+}
+
+#signUp{
+    background-color: #452A6D;
+    margin-bottom: 15px;
+    height: 45px;
+    width: 305px;
+    padding-top: 10px;
+ 
+    
+}
+#Signin{
+    width: 305px;
+}
+#textfield1{
+        width: 414px;
+        height: 35px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+}
+#textfield2{
+    width: 414px;
+    height: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+}
+#google{
+    height: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 2px;
+    margin-right: 4px;
+}
+#blank1{
+    height: 480px;
+    background-color: white;
+
+
+}
+#blank2{
+    height: 36px;
+    background-color: white;
+
+}
+
+#blank3{
+    height: 100px;
+    background-color: white;
+}
+#verify{
+    margin-bottom: 4px;
+    color: #452A6D;
+}
